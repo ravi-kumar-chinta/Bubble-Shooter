@@ -11,11 +11,11 @@
 
 ---
 ## ✨ Key Features
-✅ **Precise Aiming** – Includes a **Prediction Line** with bounce physics for accurate shots.
-✅ **Dynamic Scoring** – Features a **Scoring Multiplier** for dropping large, detached clusters.
-✅ **Game Awareness** – **"Next Up" Row Preview** shows the player when the next row will drop down.
-✅ **High Score Tracking** – Saves your personal best score using browser's `localStorage`.
-✅ **Classic Gameplay** – Core logic for cluster finding, removal, and floating bubble detection.
+- **Precise Aiming** – Includes a **Prediction Line** with bounce physics for accurate shots.
+- **Dynamic Scoring** – Features a **Scoring Multiplier** for dropping large, detached clusters.
+- **Game Awareness** – **"Next Up" Row Preview** shows the player when the next row will drop down.
+- **High Score Tracking** – Saves your personal best score using browser's `localStorage`.
+- **Classic Gameplay** – Core logic for cluster finding, removal, and floating bubble detection.
 ---
 ## 🛠️ Technologies Used
 - **HTML5 Canvas** – Game viewport and rendering.
@@ -25,7 +25,7 @@
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/ravikumar4217/bubble-shooter.git](https://github.com/ravikumar4217/Bubble-Shooter.git)
+git clone https://github.com/ravi-kumar-chinta/Bubble-Shooter.git
 ```
 2. **Navigate to the project directory:**
 
