@@ -6,7 +6,7 @@
 ---
 ## 🚀 Overview
  - **Bubble Shooter** is an interactive, physics-based arcade game built using pure **HTML5 Canvas** and **JavaScript**. The goal is to shoot colored bubbles to form clusters of three or more, causing them to burst and drop.
-- `**Match. Burst. Conquer the Grid.**`
+- **Match. Burst. Conquer the Grid.**
 - **🔗 Play it Live:** [Bubble Shooter Live Demo](https://ravi-kumar-chinta.github.io/bubble-shooter/)
 
 ---
